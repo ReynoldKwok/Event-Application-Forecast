@@ -8,8 +8,11 @@ The data analysis folder runs the analysis on the raw data to give an insight on
 `Data Imputation`:
 The data imputation folder tests the accuracy of the models, and then uses to impute data.
 
-`Prediction model and GUI`:
-the folder contains the code for  OLS regression, Elastic Net regression and Decison Trees that were used to try and predict the number of registrations of an event.
+`Data`:
+All data files and imputed data files.
+
+`GUI`:
+The python files that create a GUI for interaction.
 
 `Regression models`:
 the folder contains the code for  ARIMA, SARIMAX regression and exponetial Smoothing used to forecast the number of bookings.
