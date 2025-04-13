@@ -1,3 +1,4 @@
+### Folder Description
 Classification Models:
 Uses three methods to train and test the data, to give overall accuracy scores for future predictions.
 
@@ -15,4 +16,19 @@ the folder contains the code for  ARIMA, SARIMAX regression and exponetial Smoot
 
 Time series models:
 Logistic regression used to predict how many people would be present at an event based on Elastic Net regression that was used for the forecasting. A GUI was used to present these results.
+
+### Contributors
+- Muhammad Shaheer Rehan 
+
+- Chakaya Nyamvula 
+
+- Jamie Wilson 
+
+- Jyothesh karnam 
+
+- Thomas Goold 
+
+- Mohanned Younis 
+
+- Reynold Kwok 
 
